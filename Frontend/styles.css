@@ -1,0 +1,39 @@
+/* Thiết kế giao diện */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #86cfec;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+
+
+
+/* Thêm kiểu dáng khác cho các phần khác */
+
+footer {
+    background-color: #313030;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 0;
+}
